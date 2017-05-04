@@ -1,1 +1,1 @@
-## NodeSchool.io LearnYouNode
+## NodeSchool.io
